@@ -1,0 +1,22 @@
+{
+  "name": "number-guessing-game123",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.10.6",
+    "inquirer": "^9.2.12"
+  },
+  "dependencies": {
+    "number-guessing-game123": "^1.1.0"
+  }
+}
